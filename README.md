@@ -32,6 +32,8 @@ target="_blank"></a>
 target="_blank"></a> 
   <a href = "mailto:DanielsOfficial@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
 target="_blank"></a>
+  <a href = "https://open.spotify.com/playlist/230M9Fa6CHzgdi7rED0vBM?si=b825d1a3c8c24835"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+target="_blank"></a>
   <a href = "https://steamcommunity.com/id/DanielsOfficial/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
 target="_blank"></a>
   <a href = "https://account.xbox.com/pt-br/profile?gamertag=Daniel%20Lopes255"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"
