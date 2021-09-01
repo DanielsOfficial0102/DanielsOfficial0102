@@ -1,16 +1,40 @@
-### Hi there 👋
+## Olá! Como vai?, Sou o Daniel. 😊
 
-<!--
-**DanielsOfficial0102/DanielsOfficial0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou a procura de um estagio
+- 📚 Estudando Formação SQL Server
+- 📫 Contate-me no email: DanielsOfficial@outlook.com
+- 😄 Pronome : Ele/Dele
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/DanielsOfficial0102">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielsOfficial0102&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielsOfficial0102&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+</div>
+  
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div> 
+  <a href = "https://github.com/DanielsOfficial0102"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+target="_blank"></a>
+  <a href = "https://www.instagram.com/_itsdaniels/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniellopesbragasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+target="_blank"></a> 
+  <a href = "mailto:DanielsOfficial@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
+target="_blank"></a>
+  <a href = "https://steamcommunity.com/id/DanielsOfficial/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+target="_blank"></a>
+  <a href = "https://account.xbox.com/pt-br/profile?gamertag=Daniel%20Lopes255"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"
+target="_blank"></a>
+    
+  </div>
