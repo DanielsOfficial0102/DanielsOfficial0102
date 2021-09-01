@@ -39,6 +39,6 @@ target="_blank"></a>
   <a href = "https://account.xbox.com/pt-br/profile?gamertag=Daniel%20Lopes255"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"
 target="_blank"></a>
 
- ![Snake animation](https://github.com/DanielsOfficial0102/Daniels0102/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DanielsOfficial0102/DanielsOfficial0102/blob/output/github-contribution-grid-snake.svg)
   
 </div>
