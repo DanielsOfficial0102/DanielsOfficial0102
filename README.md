@@ -3,8 +3,9 @@
 - 🔭 Estou a procura de um estagio
 - 📚 Estudando Formação SQL Server
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
-- 😄 Pronome : Ele/Dele
-
+  
+  ##
+ 
 <div>
   <a href="https://github.com/DanielsOfficial0102">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielsOfficial0102&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
