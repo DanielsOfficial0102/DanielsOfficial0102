@@ -5,10 +5,10 @@
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
 - 😄 Pronome : Ele/Dele
 
- <div>
+<div>
   <a href="https://github.com/DanielsOfficial0102">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielsOfficial0102&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielsOfficial0102&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielsOfficial0102&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielsOfficial0102&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
