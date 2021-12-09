@@ -1,6 +1,6 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
-- 🔭 Estou a procura de um estagio
+- 🔭 Estagiario Na Fourys
 - 📚 Estudando Formação SQL Server
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
