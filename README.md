@@ -1,7 +1,7 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
 - 🔭 Estagiario Na Fourys
-- 📚 Estudando Formação SQL Server
+- 📚 Estudando Formação em Android
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
   ##
