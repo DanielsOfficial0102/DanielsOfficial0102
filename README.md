@@ -1,7 +1,7 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
-- 🔭 Trainne de Desenvolvimento Android na Foursys
-- 📚 Estudando Formação em Android
+- 🔭 Desenvolvedor Android
+- 📚 Estudando Formação em Android e Dados
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
   ##
