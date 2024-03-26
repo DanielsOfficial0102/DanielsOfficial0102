@@ -1,7 +1,7 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
-- 🔭 Analista De Sistemas
-- 📚 Estudando Formação em Android e Dados
+- 🔭 Atulamente no Cargo de Analista De Sistemas
+- 📚 Estudando Java e Analise de Dados
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
   ##
@@ -11,16 +11,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielsOfficial0102&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielsOfficial0102&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Android" height="" width="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="center" alt="C#" height="" width="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Html" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Css" height="" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js" height="" width="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Python" height="" width="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Sql" height="" width="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+
+
+<br>[![My Skills](https://skillicons.dev/icons?i=androidstudio,blender,html,css,cs,figma,gitlab,java,idea,py,unity,vscode&)](https://skillicons.dev)
   
   ##
 
