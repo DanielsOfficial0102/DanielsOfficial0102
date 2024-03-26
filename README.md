@@ -1,6 +1,6 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
-- 🔭 Desenvolvedor Android
+- 🔭 Analista De Sistemas
 - 📚 Estudando Formação em Android e Dados
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
