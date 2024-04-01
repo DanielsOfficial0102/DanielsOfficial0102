@@ -1,6 +1,6 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
-- 🔭 Atulamente no Cargo de Analista De Sistemas
+- 🔭 Atualmente no Cargo de Analista De Sistemas
 - 📚 Estudando Java e Analise de Dados
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
