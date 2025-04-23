@@ -1,7 +1,7 @@
 ## Olá! Como vai?, Sou o Daniel. 😊
 
 - 🔭 Atualmente no Cargo de Engenheiro de Dados 
-- 📚 Estudando Analise de Dados
+- 📚 MBA em Engenharia de Dados
 - 📫 Contate-me no email: DanielsOfficial@outlook.com
   
   ##
